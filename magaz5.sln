@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "magaz5", "magaz5\magaz5.csproj", "{CE90F3B7-BDC9-403A-B993-BE19D57A7EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE90F3B7-BDC9-403A-B993-BE19D57A7EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE90F3B7-BDC9-403A-B993-BE19D57A7EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE90F3B7-BDC9-403A-B993-BE19D57A7EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE90F3B7-BDC9-403A-B993-BE19D57A7EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {775ACEF2-1594-45A7-905E-ED545224DFB4}
+	EndGlobalSection
+EndGlobal
